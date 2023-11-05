@@ -1,2 +1,5 @@
-# levviatasMinecraftDownloadButton
-Own-made download buttons/badges, free to use in any project (MIT LICENSE)
+# Levviata's Download Buttons
+Download buttons made by me to use in any project
+
+# License
+Released under MIT by [@Levviata](https://github.com/Levviata).
