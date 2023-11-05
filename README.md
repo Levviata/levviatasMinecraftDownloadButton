@@ -2,4 +2,4 @@
 Download buttons made by me to use in any project
 
 # License
-Released under MIT by [@Levviata](https://github.com/Levviata).
+Released under [MIT](https://github.com/Levviata/levviatasMinecraftDownloadButton/blob/main/LICENSE) by [@Levviata](https://github.com/Levviata).
